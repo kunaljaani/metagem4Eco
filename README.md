@@ -44,3 +44,7 @@ https://academic.oup.com/bioinformatics/article/30/14/2068/2390517
 https://github.com/bbuchfink/diamond
 
 http://eggnog5.embl.de/#/app/home
+
+#4 MUST read-- perfect summary of all the tools 
+
+https://academic.oup.com/bib/article/22/5/bbab030/6184411
